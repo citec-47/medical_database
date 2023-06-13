@@ -1,6 +1,4 @@
-## Medical Database
-
-> This exercise aims to reinforce our u<div align="center">
+<div align="center">
 
   <h3><b>MEDICAL DATABASE</b></h3>
 
@@ -27,9 +25,7 @@
 
 # 📖 [Medical Database] <a name="about-project"></a>
 
-This is a datbase based project in which queries are to be written and then optimized in order to spend less time running the query.
-
-**Medical Database** is a...
+**Medical Database** is a datbase based project in which queries are to be written and then optimized in order to spend less time running the query.
 
 ## 🛠 Built With <a name="built-with"></a>
 
