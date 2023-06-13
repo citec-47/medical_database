@@ -43,7 +43,7 @@ CREATE TABLE treatments (
 );
 
 --create diagnostic table for the many to many relationship between the treatment and medical_histories tables.
---Here we cant create the index because both the medical_history_id and treatment_id are the primary keys which means the index already exist.
+--Here we can not create the index because both the medical_history_id and treatment_id are the primary keys which means the index already exist.
 CREATE TABLE diagnostic (
     medical_history_id int,
     treatment_id int,
