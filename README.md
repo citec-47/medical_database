@@ -25,7 +25,7 @@
 
 # 📖 [Medical Database] <a name="about-project"></a>
 
-**Medical Database** is a datbase based project in which queries are to be written and then optimized in order to spend less time running the query.
+**Medical Database** is a database based project in which queries are to be written and then optimized in order to spend less time running the query.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -127,10 +127,7 @@ If you like this project please let us know on linkedin and connect to show your
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
 I would like to thank microverse, team members and friends/family to support during the project to make it possible to complete the task.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
