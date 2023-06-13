@@ -48,8 +48,8 @@ CREATE DATABASE medical_database;
  Platform | Badge |
  --- | --- |
  **GitHub**    | [@ehmaddd](https://github.com/ehmaddd/)
+  **LinkedIn**  | [@ehmaddd](https://www.linkedin.com/in/ehmaddd/)
  **Twitter**   |  [@ehmaddd_pk](https://twitter.com/ehmaddd_pk)
- **LinkedIn**  | [@ehmaddd](https://www.linkedin.com/in/ehmaddd/)
 
 ## 🤝 Contributing
 
