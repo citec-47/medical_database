@@ -43,13 +43,13 @@ CREATE DATABASE medical_database;
  **Twitter** | [Ndonyi](https://twitter.com/Ndonyi4)
  **LinkdIn** | [Ndonyi](https://www.linkedin.com/in/ndonyi-maurice-b5b49b22b/)
 
- :bust_in_silhouette: **Andrés Felipe Arroyave Naranjo**
+**Muhammad Ahmad Saeed**
 
  Platform | Badge |
  --- | --- |
  **GitHub**    | [@ehmaddd](https://github.com/ehmaddd/)
  **Twitter**   |  [@ehmaddd_pk](https://twitter.com/ehmaddd_pk)
- **LinkedIn**  | [ahmad-saeed-734174148](https://www.linkedin.com/in/ahmad-saeed-734174148/)
+ **LinkedIn**  | [@ehmaddd](https://www.linkedin.com/in/ehmaddd/)
 
 ## 🤝 Contributing
 
