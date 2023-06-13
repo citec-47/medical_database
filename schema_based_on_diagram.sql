@@ -6,7 +6,7 @@ CREATE TABLE patients (
   PRIMARY KEY(id)
 );
 
---Create the medical_histories table
+--Creating the medical_histories table
 CREATE TABLE medical_histories (
   id INT GENERATED ALWAYS AS IDENTITY,
   admitted_at TIMESTAMP,
