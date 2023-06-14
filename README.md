@@ -14,8 +14,6 @@
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-  - [Usage](#usage)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -27,9 +25,7 @@
 
 # 📖 [Medical Database] <a name="about-project"></a>
 
-This is a datbase based project in which queries are to be written and then optimized in order to spend less time running the query.
-
-**Medical Database** is a...
+**Medical Database** is a database based project in which queries are to be written and then optimized in order to spend less time running the query.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,8 +41,6 @@ This is a datbase based project in which queries are to be written and then opti
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Easy to use**
 - **Flexible to embrace changes**
@@ -131,11 +125,7 @@ If you like this project please let us know on linkedin and connect to show your
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank microverse, team members and friends/family to support during the project to make it possible to complete the task.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,5 +134,3 @@ I would like to thank microverse, team members and friends/family to support dur
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
